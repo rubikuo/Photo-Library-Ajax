@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(177, 177, 177, 0.794);
+    
+    font-family: 'Kalam', cursive;
+}
+
+.header, .back-top, .footer {
+    font-family:'Margarine', cursive;
+}
